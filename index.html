@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Ansatte ved Vennesla videregående skole</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/slimbox2.css">
+        <link href="css/bootstrap.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>	
+
+    <!--NAVBAR-->
+
+    <nav class="navbar navbar-inverse navbar-fixed-bottom">
+      <div class="container-responsive">
+     
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-ansatte">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">
+            <img alt="Vennesla vgs" src="logo/logo_fg.png" height="70" width="215">
+          </a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-ansatte">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="filter active" data-filter="all"><a href="#">Alle ansatte</a></li>
+            <li class="filter" data-filter=".ledelse"><a href="#">Ledelse</a></li>
+
+            <li class="dropdown" id="elevtjenester-dropdown">
+                <a href="#" class="filter dropdown-toggle" data-toggle="dropdown" data-filter=".elevtjenester" role="button" aria-expanded="false">Elevtjenester</a>
+                <ul class="dropdown-menu" role="menu">
+                    <li class="filter" data-filter=".bibliotek"><a href="#">Bibliotek</a></li>
+                    <li class="filter" data-filter=".helse"><a href="#">Helsesøster</a></li>
+                    <li class="filter" data-filter=".nav"><a href="#">NAV i skole</a></li>
+                    <li class="filter" data-filter=".rådgiver"><a href="#">Rådgivning</a></li>
+                </ul>
+            </li>
+
+            <li class="dropdown" id="drift-dropdown">
+                <a href="#" class="filter dropdown-toggle" data-toggle="dropdown" data-filter=".merkantil-drift" role="button" aria-expanded="false">Merkantil/drift</a>
+                <ul class="dropdown-menu" role="menu">
+                    <li class="filter" data-filter=".vaktmester"><a href="#">Driftsoperatør</a></li>
+                    <li class="filter" data-filter=".it"><a href="#">IKT</a></li>
+                    <li class="filter" data-filter=".kantine"><a href="#">Kantine</a></li>
+                    <li class="filter" data-filter=".renhold"><a href="#">Renhold</a></li>
+                    <li class="filter" data-filter=".servicetorg"><a href="#">Servicetorg/kontor</a></li>
+                </ul>
+            </li>
+
+            <li class="filter" data-filter=".trl"><a href="#">TRL</a></li>
+            <li class="filter" data-filter=".tip-elektro"><a href="#">TIP/EL</a></li>
+            <li class="dropdown" id="SS-dropdown">
+                <a href="#" class="filter dropdown-toggle" data-toggle="dropdown" data-filter=".ss" role="button" aria-expanded="false">SS</a>
+                <ul class="dropdown-menu" role="menu">
+                    <li class="filter" data-filter=".sss"><a href="#">Salg, service og sikkerhet</a></li>
+                    <li class="filter" data-filter=".transport"><a href="#">Transport og logistikk</a></li>
+                </ul>
+            </li>
+            <li class="filter" data-filter=".mk"><a href="#">MK</a></li>
+            <li class="filter" data-filter=".ho"><a href="#">HO</a></li>
+            <li class="dropdown" id="Studspes-dropdown">
+                <a href="#" class="filter dropdown-toggle" data-toggle="dropdown" data-filter=".studspes" role="button" aria-expanded="false">Stud.spes/fellesfag</a>
+                <ul class="dropdown-menu" role="menu">
+                    <li class="filter" data-filter=".fremmedspråk"><a href="#">Fremmedspråk</a></li>
+                    <li class="filter" data-filter=".kroppsøving"><a href="#">Kroppsøving</a></li>
+                    <li class="filter" data-filter=".norsk"><a href="#">Norsk</a></li>
+                    <li class="filter" data-filter=".realfag"><a href="#">Realfag</a></li>
+                    <li class="filter" data-filter=".samf"><a href="#">Samfunn/økonomi</a></li>
+                </ul>
+            </li>
+        </ul>
+
+        </div><!-- /.navbar-collapse -->
+       
+      </div><!-- /.container -->
+    </nav>
+
+    <div id="titlebar">Alle ansatte</div>
+
+
+    <div id="Container" class="mix-container">
+
+        <!-- Liste over ansatte hentes fra Google regneark og settes inn her -->
+
+
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+        <div class="gap"></div>
+    </div>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+    <script src="js/vendor/jquery.mixitup.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/vendor/slimbox2.js"></script>
+    <script src="js/vendor/bootstrap.min.js"></script>
+    <script src="js/vendor/tabletop-min.js"></script>
+    <script src="js/main.js"></script>
+
+
+
+</body>
+</html>

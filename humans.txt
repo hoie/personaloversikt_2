@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Øyvind Høie> -- <Design and development> -- <@ohoie>
+    <Tom Knudsen> -- <Photographer> -- <@tomknudsen>
+
+# THANKS
+
+    <Vennesla videregående skole>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr, Slimbox2, jQuery File Upload

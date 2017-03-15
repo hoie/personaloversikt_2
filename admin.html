@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Administrer personaloversikt</title>
+
+    <!-- Place apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" href="favicon.png" />
+
+	<!-- Bootstrap CSS -->
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/main.css">
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+
+	<div class="container">
+		<h1 class="text-center page-header">Administrer personaloversikt for Vennesla vgs</h1>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3><span class="tall">1</span>Last opp en eller flere bildefiler:</h3>
+					</div>
+					<div class="panel-body">
+						<!-- Button to select & upload files -->
+						<span class="btn btn-success fileinput-button">
+							<span><span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span>  Velg filer...</span>
+							<!-- The file input field used as target for the file upload widget -->
+							<input id="fileupload" type="file" name="files[]" multiple></span>
+			
+						<!-- The global progress bar -->
+						<p>Framdrift...</p>
+						<div id="progress" class="progress progress-success progress-striped">
+							<div class="bar"></div>
+						</div>
+			
+						<!-- The list of files uploaded -->
+					</div>
+						<div class="panel-footer">
+							<p>Opplastede filer:</p>
+							<ul id="files"></ul>
+						</div>
+			
+				</div>
+			</div>
+		</div>
+
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h3> <span class="tall">2</span>Legg til, rediger eller slett ansatte:</h3>
+			</div>
+			<div class="panel-body">
+				<iframe src="https://docs.google.com/spreadsheets/d/1Rjamb3XcJiq_zTGX52sMbITX0k7rjgAsbOahOAVzmHA/edit?usp=sharing" frameborder="0" class="spreadsheet"></iframe>
+			</div>
+			<div class="panel-footer clearfix">
+				<a href="https://docs.google.com/spreadsheets/d/1Rjamb3XcJiq_zTGX52sMbITX0k7rjgAsbOahOAVzmHA/edit?usp=sharing" target="_blank" class="btn btn-default btn-xs pull-right">Rediger tabellen i eget vindu</a>
+			</div>
+		</div>
+
+				<div class="panel panel-default">
+			<div class="panel-heading">
+				<h3> <span class="tall">3</span>Kontroller resultatet:</h3>
+			</div>
+			<div class="panel-body">
+				<a href="index.html" class="btn btn-success"><span class="glyphicon glyphicon-th" aria-hidden="true"></span> Tilbake til personaloversikt</a>
+			</div>
+			<div class="panel-footer"><br></div>
+			<div class="panel-"></div>
+		</div>
+		<div class="footer">
+			<p class="small text-center text-uppercase">&copy 2014 Draft</p>
+		</div>
+
+	</div>
+	<!-- jQuery -->
+	<script src="js/vendor/jquery.min.js"></script>
+	<!-- Bootstrap JavaScript -->
+	<script src="js/vendor/bootstrap.min.js"></script>
+
+	<script src="js/vendor/jquery.ui.widget.js"></script>
+	<script src="js/vendor/jquery.iframe-transport.js"></script>
+	<script src="js/vendor/jquery.fileupload.js"></script>
+
+	<!-- JavaScript used to call the fileupload widget to upload files -->
+	<script>
+		  // When the server is ready...
+		  $(function () {
+		      'use strict';
+		      
+		      // Define the url to send the image data to
+		      var url = 'files.php';
+		      
+		      // Call the fileupload widget and set some parameters
+		      $('#fileupload').fileupload({
+		          url: url,
+		          dataType: 'json',
+		          done: function (e, data) {
+		              // Add each uploaded file name to the #files list
+		              $.each(data.result.files, function (index, file) {
+		                  $('<li/>').text(file.name).appendTo('#files');
+		              });
+		          },
+		          progressall: function (e, data) {
+		              // Update the progress bar while files are being uploaded
+		              var progress = parseInt(data.loaded / data.total * 100, 10);
+		              $('#progress .bar').css(
+		                  'width',
+		                  progress + '%'
+		              );
+		          }
+		      });
+		  });
+		  
+		</script>
+</body>
+</html>

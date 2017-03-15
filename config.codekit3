@@ -1,0 +1,6636 @@
+{
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"buildSteps": [
+	{
+		"name": "Process All Remaining Files and Folders",
+		"stepType": 1,
+		"uuidString": "2F13FFBD-F67C-473F-8C58-D496279DA04E"
+		}
+	],
+"creatorBuild": "25704",
+"files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
+	"\/404.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/404.html",
+		"oF": 0
+		},
+	"\/admin.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin.html",
+		"oF": 0
+		},
+	"\/admin_BU.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/admin_BU.html",
+		"oF": 0
+		},
+	"\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 4150,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/crossdomain.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/crossdomain.xml",
+		"oF": 0
+		},
+	"\/css\/bootstrap.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/bootstrap-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/closelabel.gif": {
+		"ft": 4194304,
+		"iS": 1297,
+		"oA": 0,
+		"oAP": "\/css\/closelabel.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/css\/loading.gif": {
+		"ft": 4194304,
+		"iS": 3897,
+		"oA": 0,
+		"oAP": "\/css\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/main-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/nextlabel.gif": {
+		"ft": 4194304,
+		"iS": 354,
+		"oA": 0,
+		"oAP": "\/css\/nextlabel.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/css\/normalize.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/normalize-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/prevlabel.gif": {
+		"ft": 4194304,
+		"iS": 371,
+		"oA": 0,
+		"oAP": "\/css\/prevlabel.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/css\/progressbar.gif": {
+		"ft": 4194304,
+		"iS": 3323,
+		"oA": 0,
+		"oAP": "\/css\/progressbar.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/css\/slimbox2.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/slimbox2-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/favicon.png": {
+		"ft": 32768,
+		"iS": 1412,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/favicon.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/files.php": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/files.php",
+		"oF": 0
+		},
+	"\/fonts\/glyphicons-halflings-regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/glyphicons-halflings-regular.eot",
+		"oF": 0
+		},
+	"\/fonts\/glyphicons-halflings-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/glyphicons-halflings-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/glyphicons-halflings-regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/glyphicons-halflings-regular.ttf",
+		"oF": 0
+		},
+	"\/fonts\/glyphicons-halflings-regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/glyphicons-halflings-regular.woff",
+		"oF": 0
+		},
+	"\/humans.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/humans.txt",
+		"oF": 0
+		},
+	"\/img\/aabel.jpg": {
+		"ft": 16384,
+		"iS": 273290,
+		"oA": 0,
+		"oAP": "\/img\/aabel.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/aggvin.jpg": {
+		"ft": 16384,
+		"iS": 285551,
+		"oA": 0,
+		"oAP": "\/img\/aggvin.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/andersen.jpg": {
+		"ft": 16384,
+		"iS": 260022,
+		"oA": 0,
+		"oAP": "\/img\/andersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/andersen1.jpg": {
+		"ft": 16384,
+		"iS": 280259,
+		"oA": 0,
+		"oAP": "\/img\/andersen1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/ansatte 15 16.jpg": {
+		"ft": 16384,
+		"iS": 552825,
+		"oA": 0,
+		"oAP": "\/img\/ansatte 15 16.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/aurebekk.jpg": {
+		"ft": 16384,
+		"iS": 204058,
+		"oA": 0,
+		"oAP": "\/img\/aurebekk.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bakkan.jpg": {
+		"ft": 16384,
+		"iS": 175798,
+		"oA": 0,
+		"oAP": "\/img\/bakkan.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/balchen.jpg": {
+		"ft": 16384,
+		"iS": 173186,
+		"oA": 0,
+		"oAP": "\/img\/balchen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/berg.jpg": {
+		"ft": 16384,
+		"iS": 302863,
+		"oA": 0,
+		"oAP": "\/img\/berg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/berglien.jpg": {
+		"ft": 16384,
+		"iS": 178973,
+		"oA": 0,
+		"oAP": "\/img\/berglien.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bjornestad.jpg": {
+		"ft": 16384,
+		"iS": 301363,
+		"oA": 0,
+		"oAP": "\/img\/bjornestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/brunstad.jpg": {
+		"ft": 16384,
+		"iS": 226229,
+		"oA": 0,
+		"oAP": "\/img\/brunstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/buli.jpg": {
+		"ft": 16384,
+		"iS": 182046,
+		"oA": 0,
+		"oAP": "\/img\/buli.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/carlsen.jpg": {
+		"ft": 16384,
+		"iS": 249656,
+		"oA": 0,
+		"oAP": "\/img\/carlsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/christoffersen.jpg": {
+		"ft": 16384,
+		"iS": 156063,
+		"oA": 0,
+		"oAP": "\/img\/christoffersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/christophersen.jpg": {
+		"ft": 16384,
+		"iS": 294916,
+		"oA": 0,
+		"oAP": "\/img\/christophersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/dale.jpg": {
+		"ft": 16384,
+		"iS": 160790,
+		"oA": 0,
+		"oAP": "\/img\/dale.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/danielsen.jpg": {
+		"ft": 16384,
+		"iS": 238184,
+		"oA": 0,
+		"oAP": "\/img\/danielsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/dinkayelin.jpg": {
+		"ft": 16384,
+		"iS": 171189,
+		"oA": 0,
+		"oAP": "\/img\/dinkayelin.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/dybvik.jpg": {
+		"ft": 16384,
+		"iS": 177671,
+		"oA": 0,
+		"oAP": "\/img\/dybvik.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/egelandsaa.jpg": {
+		"ft": 16384,
+		"iS": 147384,
+		"oA": 0,
+		"oAP": "\/img\/egelandsaa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/eiksaa.jpg": {
+		"ft": 16384,
+		"iS": 263057,
+		"oA": 0,
+		"oAP": "\/img\/eiksaa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/engesland (1).jpg": {
+		"ft": 16384,
+		"iS": 205929,
+		"oA": 0,
+		"oAP": "\/img\/engesland (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/engesland.jpg": {
+		"ft": 16384,
+		"iS": 205929,
+		"oA": 0,
+		"oAP": "\/img\/engesland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/erfjord.jpg": {
+		"ft": 16384,
+		"iS": 158854,
+		"oA": 0,
+		"oAP": "\/img\/erfjord.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/farestad.jpg": {
+		"ft": 16384,
+		"iS": 198012,
+		"oA": 0,
+		"oAP": "\/img\/farestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/fjermeros.jpg": {
+		"ft": 16384,
+		"iS": 163248,
+		"oA": 0,
+		"oAP": "\/img\/fjermeros.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/flinder.jpg": {
+		"ft": 16384,
+		"iS": 290982,
+		"oA": 0,
+		"oAP": "\/img\/flinder.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/frigstad.jpg": {
+		"ft": 16384,
+		"iS": 281167,
+		"oA": 0,
+		"oAP": "\/img\/frigstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/fuglestad.jpg": {
+		"ft": 16384,
+		"iS": 188127,
+		"oA": 0,
+		"oAP": "\/img\/fuglestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gabrielsen.jpg": {
+		"ft": 16384,
+		"iS": 190878,
+		"oA": 0,
+		"oAP": "\/img\/gabrielsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/granaas-a.jpg": {
+		"ft": 16384,
+		"iS": 135687,
+		"oA": 0,
+		"oAP": "\/img\/granaas-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/granaas-t-1 (1).jpg": {
+		"ft": 16384,
+		"iS": 151926,
+		"oA": 0,
+		"oAP": "\/img\/granaas-t-1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/granaas-t-1.jpg": {
+		"ft": 16384,
+		"iS": 151926,
+		"oA": 0,
+		"oAP": "\/img\/granaas-t-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/granaas-t.jpg": {
+		"ft": 16384,
+		"iS": 142277,
+		"oA": 0,
+		"oAP": "\/img\/granaas-t.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gundersen.jpg": {
+		"ft": 16384,
+		"iS": 304717,
+		"oA": 0,
+		"oAP": "\/img\/gundersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gustafsson.jpg": {
+		"ft": 16384,
+		"iS": 178186,
+		"oA": 0,
+		"oAP": "\/img\/gustafsson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/guthormsen.jpg": {
+		"ft": 16384,
+		"iS": 277807,
+		"oA": 0,
+		"oAP": "\/img\/guthormsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/guthormstad.jpg": {
+		"ft": 16384,
+		"iS": 212196,
+		"oA": 0,
+		"oAP": "\/img\/guthormstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/haartveit.jpg": {
+		"ft": 16384,
+		"iS": 186895,
+		"oA": 0,
+		"oAP": "\/img\/haartveit.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/habesland.jpg": {
+		"ft": 16384,
+		"iS": 141569,
+		"oA": 0,
+		"oAP": "\/img\/habesland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hagane (1).jpg": {
+		"ft": 16384,
+		"iS": 154397,
+		"oA": 0,
+		"oAP": "\/img\/hagane (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hagane.jpg": {
+		"ft": 16384,
+		"iS": 154397,
+		"oA": 0,
+		"oAP": "\/img\/hagane.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hagen.jpg": {
+		"ft": 16384,
+		"iS": 162375,
+		"oA": 0,
+		"oAP": "\/img\/hagen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hansen-a.jpg": {
+		"ft": 16384,
+		"iS": 276093,
+		"oA": 0,
+		"oAP": "\/img\/hansen-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hansen-to.jpg": {
+		"ft": 16384,
+		"iS": 155873,
+		"oA": 0,
+		"oAP": "\/img\/hansen-to.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hansen.jpg": {
+		"ft": 16384,
+		"iS": 128699,
+		"oA": 0,
+		"oAP": "\/img\/hansen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/haugen.jpg": {
+		"ft": 16384,
+		"iS": 152020,
+		"oA": 0,
+		"oAP": "\/img\/haugen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/haugset.jpg": {
+		"ft": 16384,
+		"iS": 121204,
+		"oA": 0,
+		"oAP": "\/img\/haugset.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/haugstoyl.jpg": {
+		"ft": 16384,
+		"iS": 147052,
+		"oA": 0,
+		"oAP": "\/img\/haugstoyl.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/haus.jpg": {
+		"ft": 16384,
+		"iS": 170330,
+		"oA": 0,
+		"oAP": "\/img\/haus.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hodne.jpg": {
+		"ft": 16384,
+		"iS": 138354,
+		"oA": 0,
+		"oAP": "\/img\/hodne.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hoegh (1).jpg": {
+		"ft": 16384,
+		"iS": 166576,
+		"oA": 0,
+		"oAP": "\/img\/hoegh (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hoegh.jpg": {
+		"ft": 16384,
+		"iS": 166576,
+		"oA": 0,
+		"oAP": "\/img\/hoegh.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hogh1.jpg": {
+		"ft": 16384,
+		"iS": 336792,
+		"oA": 0,
+		"oAP": "\/img\/hogh1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hogstad.jpg": {
+		"ft": 16384,
+		"iS": 225040,
+		"oA": 0,
+		"oAP": "\/img\/hogstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hoie.jpg": {
+		"ft": 16384,
+		"iS": 136591,
+		"oA": 0,
+		"oAP": "\/img\/hoie.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hovdal.jpg": {
+		"ft": 16384,
+		"iS": 230650,
+		"oA": 0,
+		"oAP": "\/img\/hovdal.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hoyaasen-g.jpg": {
+		"ft": 16384,
+		"iS": 150810,
+		"oA": 0,
+		"oAP": "\/img\/hoyaasen-g.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hoyaasen-tr-1 (1).jpg": {
+		"ft": 16384,
+		"iS": 162362,
+		"oA": 0,
+		"oAP": "\/img\/hoyaasen-tr-1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hoyaasen-tr-1.jpg": {
+		"ft": 16384,
+		"iS": 162362,
+		"oA": 0,
+		"oAP": "\/img\/hoyaasen-tr-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/hoyaasen-tr.jpg": {
+		"ft": 16384,
+		"iS": 185288,
+		"oA": 0,
+		"oAP": "\/img\/hoyaasen-tr.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/jakobsen.jpg": {
+		"ft": 16384,
+		"iS": 201117,
+		"oA": 0,
+		"oAP": "\/img\/jakobsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/johannesson.jpg": {
+		"ft": 16384,
+		"iS": 143616,
+		"oA": 0,
+		"oAP": "\/img\/johannesson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/johansen.jpg": {
+		"ft": 16384,
+		"iS": 175214,
+		"oA": 0,
+		"oAP": "\/img\/johansen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/johansson.jpg": {
+		"ft": 16384,
+		"iS": 168909,
+		"oA": 0,
+		"oAP": "\/img\/johansson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/jorgensen.jpg": {
+		"ft": 16384,
+		"iS": 159067,
+		"oA": 0,
+		"oAP": "\/img\/jorgensen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/juva.jpg": {
+		"ft": 16384,
+		"iS": 252295,
+		"oA": 0,
+		"oAP": "\/img\/juva.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/juva1.jpg": {
+		"ft": 16384,
+		"iS": 255311,
+		"oA": 0,
+		"oAP": "\/img\/juva1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/juva2.jpg": {
+		"ft": 16384,
+		"iS": 263419,
+		"oA": 0,
+		"oAP": "\/img\/juva2.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/kittelsen.jpg": {
+		"ft": 16384,
+		"iS": 179703,
+		"oA": 0,
+		"oAP": "\/img\/kittelsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/kjetsaa.jpg": {
+		"ft": 16384,
+		"iS": 119628,
+		"oA": 0,
+		"oAP": "\/img\/kjetsaa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/kleveland.jpg": {
+		"ft": 16384,
+		"iS": 140463,
+		"oA": 0,
+		"oAP": "\/img\/kleveland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/knudsen (1).jpg": {
+		"ft": 16384,
+		"iS": 148829,
+		"oA": 0,
+		"oAP": "\/img\/knudsen (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/knudsen.jpg": {
+		"ft": 16384,
+		"iS": 130051,
+		"oA": 0,
+		"oAP": "\/img\/knudsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/knudsenn.jpg": {
+		"ft": 16384,
+		"iS": 149037,
+		"oA": 0,
+		"oAP": "\/img\/knudsenn.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/knudsennn.jpg": {
+		"ft": 16384,
+		"iS": 149138,
+		"oA": 0,
+		"oAP": "\/img\/knudsennn.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/kostoel.jpg": {
+		"ft": 16384,
+		"iS": 148968,
+		"oA": 0,
+		"oAP": "\/img\/kostoel.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/kristiansen.jpg": {
+		"ft": 16384,
+		"iS": 143136,
+		"oA": 0,
+		"oAP": "\/img\/kristiansen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/kristiansen_1 (1).jpg": {
+		"ft": 16384,
+		"iS": 268002,
+		"oA": 0,
+		"oAP": "\/img\/kristiansen_1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/kristiansen_1.jpg": {
+		"ft": 16384,
+		"iS": 268002,
+		"oA": 0,
+		"oAP": "\/img\/kristiansen_1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/larsen.jpg": {
+		"ft": 16384,
+		"iS": 132461,
+		"oA": 0,
+		"oAP": "\/img\/larsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/lindland.jpg": {
+		"ft": 16384,
+		"iS": 175879,
+		"oA": 0,
+		"oAP": "\/img\/lindland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/loevik.jpg": {
+		"ft": 16384,
+		"iS": 192953,
+		"oA": 0,
+		"oAP": "\/img\/loevik.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/lohne.jpg": {
+		"ft": 16384,
+		"iS": 141973,
+		"oA": 0,
+		"oAP": "\/img\/lohne.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/lund.jpg": {
+		"ft": 16384,
+		"iS": 140967,
+		"oA": 0,
+		"oAP": "\/img\/lund.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/lunde.jpg": {
+		"ft": 16384,
+		"iS": 156693,
+		"oA": 0,
+		"oAP": "\/img\/lunde.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/madsen.jpg": {
+		"ft": 16384,
+		"iS": 176657,
+		"oA": 0,
+		"oAP": "\/img\/madsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/aabel.jpg": {
+		"ft": 16384,
+		"iS": 273290,
+		"oA": 0,
+		"oAP": "\/img\/medium\/aabel.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/aggvin.jpg": {
+		"ft": 16384,
+		"iS": 285551,
+		"oA": 0,
+		"oAP": "\/img\/medium\/aggvin.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/andersen.jpg": {
+		"ft": 16384,
+		"iS": 260022,
+		"oA": 0,
+		"oAP": "\/img\/medium\/andersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/andersen1.jpg": {
+		"ft": 16384,
+		"iS": 280259,
+		"oA": 0,
+		"oAP": "\/img\/medium\/andersen1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/ansatte 15 16.jpg": {
+		"ft": 16384,
+		"iS": 81958,
+		"oA": 0,
+		"oAP": "\/img\/medium\/ansatte 15 16.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/aurebekk.jpg": {
+		"ft": 16384,
+		"iS": 204058,
+		"oA": 0,
+		"oAP": "\/img\/medium\/aurebekk.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/bakkan.jpg": {
+		"ft": 16384,
+		"iS": 175798,
+		"oA": 0,
+		"oAP": "\/img\/medium\/bakkan.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/balchen.jpg": {
+		"ft": 16384,
+		"iS": 173186,
+		"oA": 0,
+		"oAP": "\/img\/medium\/balchen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/berg.jpg": {
+		"ft": 16384,
+		"iS": 302863,
+		"oA": 0,
+		"oAP": "\/img\/medium\/berg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/berglien.jpg": {
+		"ft": 16384,
+		"iS": 178973,
+		"oA": 0,
+		"oAP": "\/img\/medium\/berglien.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/bjornestad.jpg": {
+		"ft": 16384,
+		"iS": 301363,
+		"oA": 0,
+		"oAP": "\/img\/medium\/bjornestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/brunstad.jpg": {
+		"ft": 16384,
+		"iS": 226229,
+		"oA": 0,
+		"oAP": "\/img\/medium\/brunstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/buli.jpg": {
+		"ft": 16384,
+		"iS": 182046,
+		"oA": 0,
+		"oAP": "\/img\/medium\/buli.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/carlsen.jpg": {
+		"ft": 16384,
+		"iS": 249656,
+		"oA": 0,
+		"oAP": "\/img\/medium\/carlsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/christoffersen.jpg": {
+		"ft": 16384,
+		"iS": 156063,
+		"oA": 0,
+		"oAP": "\/img\/medium\/christoffersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/christophersen.jpg": {
+		"ft": 16384,
+		"iS": 294916,
+		"oA": 0,
+		"oAP": "\/img\/medium\/christophersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/dale.jpg": {
+		"ft": 16384,
+		"iS": 160790,
+		"oA": 0,
+		"oAP": "\/img\/medium\/dale.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/danielsen.jpg": {
+		"ft": 16384,
+		"iS": 238184,
+		"oA": 0,
+		"oAP": "\/img\/medium\/danielsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/dinkayelin.jpg": {
+		"ft": 16384,
+		"iS": 171189,
+		"oA": 0,
+		"oAP": "\/img\/medium\/dinkayelin.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/dybvik.jpg": {
+		"ft": 16384,
+		"iS": 177671,
+		"oA": 0,
+		"oAP": "\/img\/medium\/dybvik.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/egelandsaa.jpg": {
+		"ft": 16384,
+		"iS": 147384,
+		"oA": 0,
+		"oAP": "\/img\/medium\/egelandsaa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/eiksaa.jpg": {
+		"ft": 16384,
+		"iS": 263057,
+		"oA": 0,
+		"oAP": "\/img\/medium\/eiksaa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/engesland (1).jpg": {
+		"ft": 16384,
+		"iS": 205929,
+		"oA": 0,
+		"oAP": "\/img\/medium\/engesland (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/engesland.jpg": {
+		"ft": 16384,
+		"iS": 205929,
+		"oA": 0,
+		"oAP": "\/img\/medium\/engesland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/erfjord.jpg": {
+		"ft": 16384,
+		"iS": 158854,
+		"oA": 0,
+		"oAP": "\/img\/medium\/erfjord.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/farestad.jpg": {
+		"ft": 16384,
+		"iS": 198012,
+		"oA": 0,
+		"oAP": "\/img\/medium\/farestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/fjermeros.jpg": {
+		"ft": 16384,
+		"iS": 163248,
+		"oA": 0,
+		"oAP": "\/img\/medium\/fjermeros.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/flinder.jpg": {
+		"ft": 16384,
+		"iS": 290982,
+		"oA": 0,
+		"oAP": "\/img\/medium\/flinder.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/frigstad.jpg": {
+		"ft": 16384,
+		"iS": 281167,
+		"oA": 0,
+		"oAP": "\/img\/medium\/frigstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/fuglestad.jpg": {
+		"ft": 16384,
+		"iS": 188127,
+		"oA": 0,
+		"oAP": "\/img\/medium\/fuglestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/gabrielsen.jpg": {
+		"ft": 16384,
+		"iS": 190878,
+		"oA": 0,
+		"oAP": "\/img\/medium\/gabrielsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/granaas-a.jpg": {
+		"ft": 16384,
+		"iS": 135687,
+		"oA": 0,
+		"oAP": "\/img\/medium\/granaas-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/granaas-t-1 (1).jpg": {
+		"ft": 16384,
+		"iS": 151926,
+		"oA": 0,
+		"oAP": "\/img\/medium\/granaas-t-1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/granaas-t-1.jpg": {
+		"ft": 16384,
+		"iS": 151926,
+		"oA": 0,
+		"oAP": "\/img\/medium\/granaas-t-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/granaas-t.jpg": {
+		"ft": 16384,
+		"iS": 142277,
+		"oA": 0,
+		"oAP": "\/img\/medium\/granaas-t.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/gundersen.jpg": {
+		"ft": 16384,
+		"iS": 304717,
+		"oA": 0,
+		"oAP": "\/img\/medium\/gundersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/gustafsson.jpg": {
+		"ft": 16384,
+		"iS": 178186,
+		"oA": 0,
+		"oAP": "\/img\/medium\/gustafsson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/guthormsen.jpg": {
+		"ft": 16384,
+		"iS": 277807,
+		"oA": 0,
+		"oAP": "\/img\/medium\/guthormsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/guthormstad.jpg": {
+		"ft": 16384,
+		"iS": 212196,
+		"oA": 0,
+		"oAP": "\/img\/medium\/guthormstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/haartveit.jpg": {
+		"ft": 16384,
+		"iS": 186895,
+		"oA": 0,
+		"oAP": "\/img\/medium\/haartveit.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/habesland.jpg": {
+		"ft": 16384,
+		"iS": 141569,
+		"oA": 0,
+		"oAP": "\/img\/medium\/habesland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hagane (1).jpg": {
+		"ft": 16384,
+		"iS": 154397,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hagane (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hagane.jpg": {
+		"ft": 16384,
+		"iS": 154397,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hagane.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hagen.jpg": {
+		"ft": 16384,
+		"iS": 162375,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hagen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hansen-a.jpg": {
+		"ft": 16384,
+		"iS": 276093,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hansen-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hansen-to.jpg": {
+		"ft": 16384,
+		"iS": 155873,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hansen-to.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hansen.jpg": {
+		"ft": 16384,
+		"iS": 128699,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hansen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/haugen.jpg": {
+		"ft": 16384,
+		"iS": 152020,
+		"oA": 0,
+		"oAP": "\/img\/medium\/haugen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/haugset.jpg": {
+		"ft": 16384,
+		"iS": 121204,
+		"oA": 0,
+		"oAP": "\/img\/medium\/haugset.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/haugstoyl.jpg": {
+		"ft": 16384,
+		"iS": 147052,
+		"oA": 0,
+		"oAP": "\/img\/medium\/haugstoyl.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/haus.jpg": {
+		"ft": 16384,
+		"iS": 170330,
+		"oA": 0,
+		"oAP": "\/img\/medium\/haus.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hodne.jpg": {
+		"ft": 16384,
+		"iS": 138354,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hodne.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hoegh (1).jpg": {
+		"ft": 16384,
+		"iS": 166576,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hoegh (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hoegh.jpg": {
+		"ft": 16384,
+		"iS": 166576,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hoegh.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hogh1.jpg": {
+		"ft": 16384,
+		"iS": 336792,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hogh1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hogstad.jpg": {
+		"ft": 16384,
+		"iS": 225040,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hogstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hoie.jpg": {
+		"ft": 16384,
+		"iS": 136591,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hoie.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hovdal.jpg": {
+		"ft": 16384,
+		"iS": 230650,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hovdal.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hoyaasen-g.jpg": {
+		"ft": 16384,
+		"iS": 150810,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hoyaasen-g.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hoyaasen-tr-1 (1).jpg": {
+		"ft": 16384,
+		"iS": 162362,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hoyaasen-tr-1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hoyaasen-tr-1.jpg": {
+		"ft": 16384,
+		"iS": 162362,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hoyaasen-tr-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/hoyaasen-tr.jpg": {
+		"ft": 16384,
+		"iS": 185288,
+		"oA": 0,
+		"oAP": "\/img\/medium\/hoyaasen-tr.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/jakobsen.jpg": {
+		"ft": 16384,
+		"iS": 201117,
+		"oA": 0,
+		"oAP": "\/img\/medium\/jakobsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/johannesson.jpg": {
+		"ft": 16384,
+		"iS": 143616,
+		"oA": 0,
+		"oAP": "\/img\/medium\/johannesson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/johansen.jpg": {
+		"ft": 16384,
+		"iS": 175214,
+		"oA": 0,
+		"oAP": "\/img\/medium\/johansen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/johansson.jpg": {
+		"ft": 16384,
+		"iS": 168909,
+		"oA": 0,
+		"oAP": "\/img\/medium\/johansson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/jorgensen.jpg": {
+		"ft": 16384,
+		"iS": 159067,
+		"oA": 0,
+		"oAP": "\/img\/medium\/jorgensen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/juva.jpg": {
+		"ft": 16384,
+		"iS": 252295,
+		"oA": 0,
+		"oAP": "\/img\/medium\/juva.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/juva1.jpg": {
+		"ft": 16384,
+		"iS": 255311,
+		"oA": 0,
+		"oAP": "\/img\/medium\/juva1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/juva2.jpg": {
+		"ft": 16384,
+		"iS": 263419,
+		"oA": 0,
+		"oAP": "\/img\/medium\/juva2.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/kittelsen.jpg": {
+		"ft": 16384,
+		"iS": 179703,
+		"oA": 0,
+		"oAP": "\/img\/medium\/kittelsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/kjetsaa.jpg": {
+		"ft": 16384,
+		"iS": 119628,
+		"oA": 0,
+		"oAP": "\/img\/medium\/kjetsaa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/kleveland.jpg": {
+		"ft": 16384,
+		"iS": 140463,
+		"oA": 0,
+		"oAP": "\/img\/medium\/kleveland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/knudsen (1).jpg": {
+		"ft": 16384,
+		"iS": 148829,
+		"oA": 0,
+		"oAP": "\/img\/medium\/knudsen (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/knudsen.jpg": {
+		"ft": 16384,
+		"iS": 130051,
+		"oA": 0,
+		"oAP": "\/img\/medium\/knudsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/knudsenn.jpg": {
+		"ft": 16384,
+		"iS": 149037,
+		"oA": 0,
+		"oAP": "\/img\/medium\/knudsenn.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/knudsennn.jpg": {
+		"ft": 16384,
+		"iS": 149138,
+		"oA": 0,
+		"oAP": "\/img\/medium\/knudsennn.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/kostoel.jpg": {
+		"ft": 16384,
+		"iS": 148968,
+		"oA": 0,
+		"oAP": "\/img\/medium\/kostoel.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/kristiansen.jpg": {
+		"ft": 16384,
+		"iS": 143136,
+		"oA": 0,
+		"oAP": "\/img\/medium\/kristiansen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/kristiansen_1 (1).jpg": {
+		"ft": 16384,
+		"iS": 268002,
+		"oA": 0,
+		"oAP": "\/img\/medium\/kristiansen_1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/kristiansen_1.jpg": {
+		"ft": 16384,
+		"iS": 268002,
+		"oA": 0,
+		"oAP": "\/img\/medium\/kristiansen_1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/larsen.jpg": {
+		"ft": 16384,
+		"iS": 132461,
+		"oA": 0,
+		"oAP": "\/img\/medium\/larsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/lindland.jpg": {
+		"ft": 16384,
+		"iS": 175879,
+		"oA": 0,
+		"oAP": "\/img\/medium\/lindland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/loevik.jpg": {
+		"ft": 16384,
+		"iS": 192953,
+		"oA": 0,
+		"oAP": "\/img\/medium\/loevik.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/lohne.jpg": {
+		"ft": 16384,
+		"iS": 141973,
+		"oA": 0,
+		"oAP": "\/img\/medium\/lohne.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/lund.jpg": {
+		"ft": 16384,
+		"iS": 140967,
+		"oA": 0,
+		"oAP": "\/img\/medium\/lund.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/lunde.jpg": {
+		"ft": 16384,
+		"iS": 156693,
+		"oA": 0,
+		"oAP": "\/img\/medium\/lunde.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/madsen.jpg": {
+		"ft": 16384,
+		"iS": 176657,
+		"oA": 0,
+		"oAP": "\/img\/medium\/madsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/mellemstrand.jpg": {
+		"ft": 16384,
+		"iS": 156552,
+		"oA": 0,
+		"oAP": "\/img\/medium\/mellemstrand.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/michaelsen.jpg": {
+		"ft": 16384,
+		"iS": 326042,
+		"oA": 0,
+		"oAP": "\/img\/medium\/michaelsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/milsom.jpg": {
+		"ft": 16384,
+		"iS": 177277,
+		"oA": 0,
+		"oAP": "\/img\/medium\/milsom.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/moen.jpg": {
+		"ft": 16384,
+		"iS": 158708,
+		"oA": 0,
+		"oAP": "\/img\/medium\/moen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/myrhaug.jpg": {
+		"ft": 16384,
+		"iS": 169853,
+		"oA": 0,
+		"oAP": "\/img\/medium\/myrhaug.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/nesland-1 (1).jpg": {
+		"ft": 16384,
+		"iS": 157824,
+		"oA": 0,
+		"oAP": "\/img\/medium\/nesland-1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/nesland-1.jpg": {
+		"ft": 16384,
+		"iS": 157824,
+		"oA": 0,
+		"oAP": "\/img\/medium\/nesland-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/nesland-t.jpg": {
+		"ft": 16384,
+		"iS": 150781,
+		"oA": 0,
+		"oAP": "\/img\/medium\/nesland-t.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/nesland.jpg": {
+		"ft": 16384,
+		"iS": 180142,
+		"oA": 0,
+		"oAP": "\/img\/medium\/nesland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/nilsen.jpg": {
+		"ft": 16384,
+		"iS": 181294,
+		"oA": 0,
+		"oAP": "\/img\/medium\/nilsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/nordhus.jpg": {
+		"ft": 16384,
+		"iS": 130572,
+		"oA": 0,
+		"oAP": "\/img\/medium\/nordhus.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/nupen.jpg": {
+		"ft": 16384,
+		"iS": 183394,
+		"oA": 0,
+		"oAP": "\/img\/medium\/nupen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/nyborg.jpg": {
+		"ft": 16384,
+		"iS": 164980,
+		"oA": 0,
+		"oAP": "\/img\/medium\/nyborg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/nyhagen.jpg": {
+		"ft": 16384,
+		"iS": 177466,
+		"oA": 0,
+		"oAP": "\/img\/medium\/nyhagen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/ojanen.jpg": {
+		"ft": 16384,
+		"iS": 139220,
+		"oA": 0,
+		"oAP": "\/img\/medium\/ojanen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/olaussen.jpg": {
+		"ft": 16384,
+		"iS": 201555,
+		"oA": 0,
+		"oAP": "\/img\/medium\/olaussen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/olsen.jpg": {
+		"ft": 16384,
+		"iS": 153898,
+		"oA": 0,
+		"oAP": "\/img\/medium\/olsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/omdal-a.jpg": {
+		"ft": 16384,
+		"iS": 123220,
+		"oA": 0,
+		"oAP": "\/img\/medium\/omdal-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/omdal-ha.jpg": {
+		"ft": 16384,
+		"iS": 154017,
+		"oA": 0,
+		"oAP": "\/img\/medium\/omdal-ha.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/omestad.jpg": {
+		"ft": 16384,
+		"iS": 171561,
+		"oA": 0,
+		"oAP": "\/img\/medium\/omestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/osmundsen.jpg": {
+		"ft": 16384,
+		"iS": 148176,
+		"oA": 0,
+		"oAP": "\/img\/medium\/osmundsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/pedersen-s.jpg": {
+		"ft": 16384,
+		"iS": 193495,
+		"oA": 0,
+		"oAP": "\/img\/medium\/pedersen-s.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/pedersen.jpg": {
+		"ft": 16384,
+		"iS": 137217,
+		"oA": 0,
+		"oAP": "\/img\/medium\/pedersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/reierson.jpg": {
+		"ft": 16384,
+		"iS": 209704,
+		"oA": 0,
+		"oAP": "\/img\/medium\/reierson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/revheim.jpg": {
+		"ft": 16384,
+		"iS": 204225,
+		"oA": 0,
+		"oAP": "\/img\/medium\/revheim.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/ribe.jpg": {
+		"ft": 16384,
+		"iS": 156393,
+		"oA": 0,
+		"oAP": "\/img\/medium\/ribe.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/ribeiro.jpg": {
+		"ft": 16384,
+		"iS": 130846,
+		"oA": 0,
+		"oAP": "\/img\/medium\/ribeiro.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/robstad-a.jpg": {
+		"ft": 16384,
+		"iS": 143522,
+		"oA": 0,
+		"oAP": "\/img\/medium\/robstad-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/robstad-j.jpg": {
+		"ft": 16384,
+		"iS": 154907,
+		"oA": 0,
+		"oAP": "\/img\/medium\/robstad-j.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/robstad-r.jpg": {
+		"ft": 16384,
+		"iS": 169086,
+		"oA": 0,
+		"oAP": "\/img\/medium\/robstad-r.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/roesnes.jpg": {
+		"ft": 16384,
+		"iS": 173851,
+		"oA": 0,
+		"oAP": "\/img\/medium\/roesnes.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/roestad.jpg": {
+		"ft": 16384,
+		"iS": 182329,
+		"oA": 0,
+		"oAP": "\/img\/medium\/roestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/roland.jpg": {
+		"ft": 16384,
+		"iS": 185096,
+		"oA": 0,
+		"oAP": "\/img\/medium\/roland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/ropstad1.jpg": {
+		"ft": 16384,
+		"iS": 271249,
+		"oA": 0,
+		"oAP": "\/img\/medium\/ropstad1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/rosenberg.jpg": {
+		"ft": 16384,
+		"iS": 146829,
+		"oA": 0,
+		"oAP": "\/img\/medium\/rosenberg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/ruenes.jpg": {
+		"ft": 16384,
+		"iS": 287206,
+		"oA": 0,
+		"oAP": "\/img\/medium\/ruenes.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/rysstad.jpg": {
+		"ft": 16384,
+		"iS": 260323,
+		"oA": 0,
+		"oAP": "\/img\/medium\/rysstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/rysstad1.jpg": {
+		"ft": 16384,
+		"iS": 244869,
+		"oA": 0,
+		"oAP": "\/img\/medium\/rysstad1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/salvesen-1.jpg": {
+		"ft": 16384,
+		"iS": 126291,
+		"oA": 0,
+		"oAP": "\/img\/medium\/salvesen-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/salvesen.jpg": {
+		"ft": 16384,
+		"iS": 115524,
+		"oA": 0,
+		"oAP": "\/img\/medium\/salvesen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/signe_ani.gif": {
+		"ft": 4194304,
+		"iS": 1505898,
+		"oA": 0,
+		"oAP": "\/img\/medium\/signe_ani.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/medium\/skogseid.jpg": {
+		"ft": 16384,
+		"iS": 306910,
+		"oA": 0,
+		"oAP": "\/img\/medium\/skogseid.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/sloegedal.jpg": {
+		"ft": 16384,
+		"iS": 190211,
+		"oA": 0,
+		"oAP": "\/img\/medium\/sloegedal.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/snoaas.jpg": {
+		"ft": 16384,
+		"iS": 290520,
+		"oA": 0,
+		"oAP": "\/img\/medium\/snoaas.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/soerensen.jpg": {
+		"ft": 16384,
+		"iS": 290286,
+		"oA": 0,
+		"oAP": "\/img\/medium\/soerensen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/sorensen.jpg": {
+		"ft": 16384,
+		"iS": 207505,
+		"oA": 0,
+		"oAP": "\/img\/medium\/sorensen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/steinsland-n.jpg": {
+		"ft": 16384,
+		"iS": 185403,
+		"oA": 0,
+		"oAP": "\/img\/medium\/steinsland-n.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/steinsland.jpg": {
+		"ft": 16384,
+		"iS": 136780,
+		"oA": 0,
+		"oAP": "\/img\/medium\/steinsland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/stenberg.jpg": {
+		"ft": 16384,
+		"iS": 163568,
+		"oA": 0,
+		"oAP": "\/img\/medium\/stenberg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/stephen.jpg": {
+		"ft": 16384,
+		"iS": 243839,
+		"oA": 0,
+		"oAP": "\/img\/medium\/stephen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/storeboe.jpg": {
+		"ft": 16384,
+		"iS": 132708,
+		"oA": 0,
+		"oAP": "\/img\/medium\/storeboe.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/stromme.jpg": {
+		"ft": 16384,
+		"iS": 168364,
+		"oA": 0,
+		"oAP": "\/img\/medium\/stromme.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/syvertsen.jpg": {
+		"ft": 16384,
+		"iS": 175792,
+		"oA": 0,
+		"oAP": "\/img\/medium\/syvertsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/tag.jpg": {
+		"ft": 16384,
+		"iS": 151408,
+		"oA": 0,
+		"oAP": "\/img\/medium\/tag.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/tallaksen.jpg": {
+		"ft": 16384,
+		"iS": 176120,
+		"oA": 0,
+		"oAP": "\/img\/medium\/tallaksen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/tangstad.jpg": {
+		"ft": 16384,
+		"iS": 152478,
+		"oA": 0,
+		"oAP": "\/img\/medium\/tangstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/thomassen.jpg": {
+		"ft": 16384,
+		"iS": 200103,
+		"oA": 0,
+		"oAP": "\/img\/medium\/thomassen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/toennessen.jpg": {
+		"ft": 16384,
+		"iS": 181237,
+		"oA": 0,
+		"oAP": "\/img\/medium\/toennessen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/tom-test-1.gif": {
+		"ft": 4194304,
+		"iS": 29314188,
+		"oA": 0,
+		"oAP": "\/img\/medium\/tom-test-1.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/medium\/tom-test.gif": {
+		"ft": 4194304,
+		"iS": 15363500,
+		"oA": 0,
+		"oAP": "\/img\/medium\/tom-test.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/medium\/tom-tester.gif": {
+		"ft": 4194304,
+		"iS": 3808706,
+		"oA": 0,
+		"oAP": "\/img\/medium\/tom-tester.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/medium\/tomtest2.gif": {
+		"ft": 4194304,
+		"iS": 8934417,
+		"oA": 0,
+		"oAP": "\/img\/medium\/tomtest2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/medium\/torkelsen.jpg": {
+		"ft": 16384,
+		"iS": 197852,
+		"oA": 0,
+		"oAP": "\/img\/medium\/torkelsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/tveit.jpg": {
+		"ft": 16384,
+		"iS": 174955,
+		"oA": 0,
+		"oAP": "\/img\/medium\/tveit.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/tveiten.jpg": {
+		"ft": 16384,
+		"iS": 177837,
+		"oA": 0,
+		"oAP": "\/img\/medium\/tveiten.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/vold.jpg": {
+		"ft": 16384,
+		"iS": 251716,
+		"oA": 0,
+		"oAP": "\/img\/medium\/vold.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/medium\/vraa.jpg": {
+		"ft": 16384,
+		"iS": 255732,
+		"oA": 0,
+		"oAP": "\/img\/medium\/vraa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/mellemstrand.jpg": {
+		"ft": 16384,
+		"iS": 156552,
+		"oA": 0,
+		"oAP": "\/img\/mellemstrand.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/michaelsen.jpg": {
+		"ft": 16384,
+		"iS": 326042,
+		"oA": 0,
+		"oAP": "\/img\/michaelsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/milsom.jpg": {
+		"ft": 16384,
+		"iS": 177277,
+		"oA": 0,
+		"oAP": "\/img\/milsom.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/moen.jpg": {
+		"ft": 16384,
+		"iS": 158708,
+		"oA": 0,
+		"oAP": "\/img\/moen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/myrhaug.jpg": {
+		"ft": 16384,
+		"iS": 169853,
+		"oA": 0,
+		"oAP": "\/img\/myrhaug.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/nesland-1 (1).jpg": {
+		"ft": 16384,
+		"iS": 157824,
+		"oA": 0,
+		"oAP": "\/img\/nesland-1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/nesland-1.jpg": {
+		"ft": 16384,
+		"iS": 157824,
+		"oA": 0,
+		"oAP": "\/img\/nesland-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/nesland-t.jpg": {
+		"ft": 16384,
+		"iS": 150781,
+		"oA": 0,
+		"oAP": "\/img\/nesland-t.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/nesland.jpg": {
+		"ft": 16384,
+		"iS": 180142,
+		"oA": 0,
+		"oAP": "\/img\/nesland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/nilsen.jpg": {
+		"ft": 16384,
+		"iS": 181294,
+		"oA": 0,
+		"oAP": "\/img\/nilsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/nordhus.jpg": {
+		"ft": 16384,
+		"iS": 130572,
+		"oA": 0,
+		"oAP": "\/img\/nordhus.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/nupen.jpg": {
+		"ft": 16384,
+		"iS": 183394,
+		"oA": 0,
+		"oAP": "\/img\/nupen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/nyborg.jpg": {
+		"ft": 16384,
+		"iS": 164980,
+		"oA": 0,
+		"oAP": "\/img\/nyborg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/nyhagen.jpg": {
+		"ft": 16384,
+		"iS": 177466,
+		"oA": 0,
+		"oAP": "\/img\/nyhagen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/ojanen.jpg": {
+		"ft": 16384,
+		"iS": 139220,
+		"oA": 0,
+		"oAP": "\/img\/ojanen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/olaussen.jpg": {
+		"ft": 16384,
+		"iS": 201555,
+		"oA": 0,
+		"oAP": "\/img\/olaussen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/olsen.jpg": {
+		"ft": 16384,
+		"iS": 153898,
+		"oA": 0,
+		"oAP": "\/img\/olsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/omdal-a.jpg": {
+		"ft": 16384,
+		"iS": 123220,
+		"oA": 0,
+		"oAP": "\/img\/omdal-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/omdal-ha.jpg": {
+		"ft": 16384,
+		"iS": 154017,
+		"oA": 0,
+		"oAP": "\/img\/omdal-ha.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/omestad.jpg": {
+		"ft": 16384,
+		"iS": 171561,
+		"oA": 0,
+		"oAP": "\/img\/omestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/osmundsen.jpg": {
+		"ft": 16384,
+		"iS": 148176,
+		"oA": 0,
+		"oAP": "\/img\/osmundsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/pedersen-s.jpg": {
+		"ft": 16384,
+		"iS": 193495,
+		"oA": 0,
+		"oAP": "\/img\/pedersen-s.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/pedersen.jpg": {
+		"ft": 16384,
+		"iS": 137217,
+		"oA": 0,
+		"oAP": "\/img\/pedersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/reierson.jpg": {
+		"ft": 16384,
+		"iS": 209704,
+		"oA": 0,
+		"oAP": "\/img\/reierson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/revheim.jpg": {
+		"ft": 16384,
+		"iS": 204225,
+		"oA": 0,
+		"oAP": "\/img\/revheim.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/ribe.jpg": {
+		"ft": 16384,
+		"iS": 156393,
+		"oA": 0,
+		"oAP": "\/img\/ribe.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/ribeiro.jpg": {
+		"ft": 16384,
+		"iS": 130846,
+		"oA": 0,
+		"oAP": "\/img\/ribeiro.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/robstad-a.jpg": {
+		"ft": 16384,
+		"iS": 143522,
+		"oA": 0,
+		"oAP": "\/img\/robstad-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/robstad-j.jpg": {
+		"ft": 16384,
+		"iS": 154907,
+		"oA": 0,
+		"oAP": "\/img\/robstad-j.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/robstad-r.jpg": {
+		"ft": 16384,
+		"iS": 169086,
+		"oA": 0,
+		"oAP": "\/img\/robstad-r.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/roesnes.jpg": {
+		"ft": 16384,
+		"iS": 173851,
+		"oA": 0,
+		"oAP": "\/img\/roesnes.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/roestad.jpg": {
+		"ft": 16384,
+		"iS": 182329,
+		"oA": 0,
+		"oAP": "\/img\/roestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/roland.jpg": {
+		"ft": 16384,
+		"iS": 185096,
+		"oA": 0,
+		"oAP": "\/img\/roland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/ropstad1.jpg": {
+		"ft": 16384,
+		"iS": 271249,
+		"oA": 0,
+		"oAP": "\/img\/ropstad1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/rosenberg.jpg": {
+		"ft": 16384,
+		"iS": 146829,
+		"oA": 0,
+		"oAP": "\/img\/rosenberg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/ruenes.jpg": {
+		"ft": 16384,
+		"iS": 287206,
+		"oA": 0,
+		"oAP": "\/img\/ruenes.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/rysstad.jpg": {
+		"ft": 16384,
+		"iS": 260323,
+		"oA": 0,
+		"oAP": "\/img\/rysstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/rysstad1.jpg": {
+		"ft": 16384,
+		"iS": 244869,
+		"oA": 0,
+		"oAP": "\/img\/rysstad1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/salvesen-1.jpg": {
+		"ft": 16384,
+		"iS": 126291,
+		"oA": 0,
+		"oAP": "\/img\/salvesen-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/salvesen.jpg": {
+		"ft": 16384,
+		"iS": 115524,
+		"oA": 0,
+		"oAP": "\/img\/salvesen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/signe_ani.gif": {
+		"ft": 4194304,
+		"iS": 1505898,
+		"oA": 0,
+		"oAP": "\/img\/signe_ani.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/skogseid.jpg": {
+		"ft": 16384,
+		"iS": 306910,
+		"oA": 0,
+		"oAP": "\/img\/skogseid.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/sloegedal.jpg": {
+		"ft": 16384,
+		"iS": 190211,
+		"oA": 0,
+		"oAP": "\/img\/sloegedal.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/snoaas.jpg": {
+		"ft": 16384,
+		"iS": 290520,
+		"oA": 0,
+		"oAP": "\/img\/snoaas.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/soerensen.jpg": {
+		"ft": 16384,
+		"iS": 290286,
+		"oA": 0,
+		"oAP": "\/img\/soerensen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/sorensen.jpg": {
+		"ft": 16384,
+		"iS": 207505,
+		"oA": 0,
+		"oAP": "\/img\/sorensen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/steinsland-n.jpg": {
+		"ft": 16384,
+		"iS": 185403,
+		"oA": 0,
+		"oAP": "\/img\/steinsland-n.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/steinsland.jpg": {
+		"ft": 16384,
+		"iS": 136780,
+		"oA": 0,
+		"oAP": "\/img\/steinsland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/stenberg.jpg": {
+		"ft": 16384,
+		"iS": 163568,
+		"oA": 0,
+		"oAP": "\/img\/stenberg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/stephen.jpg": {
+		"ft": 16384,
+		"iS": 243839,
+		"oA": 0,
+		"oAP": "\/img\/stephen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/storeboe.jpg": {
+		"ft": 16384,
+		"iS": 132708,
+		"oA": 0,
+		"oAP": "\/img\/storeboe.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/stromme.jpg": {
+		"ft": 16384,
+		"iS": 168364,
+		"oA": 0,
+		"oAP": "\/img\/stromme.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/syvertsen.jpg": {
+		"ft": 16384,
+		"iS": 175792,
+		"oA": 0,
+		"oAP": "\/img\/syvertsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/tag.jpg": {
+		"ft": 16384,
+		"iS": 151408,
+		"oA": 0,
+		"oAP": "\/img\/tag.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/tallaksen.jpg": {
+		"ft": 16384,
+		"iS": 176120,
+		"oA": 0,
+		"oAP": "\/img\/tallaksen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/tangstad.jpg": {
+		"ft": 16384,
+		"iS": 152478,
+		"oA": 0,
+		"oAP": "\/img\/tangstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thomassen.jpg": {
+		"ft": 16384,
+		"iS": 200103,
+		"oA": 0,
+		"oAP": "\/img\/thomassen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/aabel.jpg": {
+		"ft": 16384,
+		"iS": 6383,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/aabel.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/aggvin.jpg": {
+		"ft": 16384,
+		"iS": 5870,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/aggvin.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/andersen.jpg": {
+		"ft": 16384,
+		"iS": 5794,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/andersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/andersen1.jpg": {
+		"ft": 16384,
+		"iS": 5875,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/andersen1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/ansatte 15 16.jpg": {
+		"ft": 16384,
+		"iS": 10421,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/ansatte 15 16.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/aurebekk.jpg": {
+		"ft": 16384,
+		"iS": 6418,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/aurebekk.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/bakkan.jpg": {
+		"ft": 16384,
+		"iS": 6350,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/bakkan.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/balchen.jpg": {
+		"ft": 16384,
+		"iS": 6075,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/balchen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/berg.jpg": {
+		"ft": 16384,
+		"iS": 6317,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/berg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/berglien.jpg": {
+		"ft": 16384,
+		"iS": 5654,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/berglien.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/bjornestad.jpg": {
+		"ft": 16384,
+		"iS": 6408,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/bjornestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/brunstad.jpg": {
+		"ft": 16384,
+		"iS": 7363,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/brunstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/buli.jpg": {
+		"ft": 16384,
+		"iS": 6089,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/buli.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/carlsen.jpg": {
+		"ft": 16384,
+		"iS": 4783,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/carlsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/christoffersen.jpg": {
+		"ft": 16384,
+		"iS": 5789,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/christoffersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/christophersen.jpg": {
+		"ft": 16384,
+		"iS": 7458,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/christophersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/dale.jpg": {
+		"ft": 16384,
+		"iS": 5508,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/dale.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/danielsen.jpg": {
+		"ft": 16384,
+		"iS": 4898,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/danielsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/dinkayelin.jpg": {
+		"ft": 16384,
+		"iS": 5533,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/dinkayelin.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/dybvik.jpg": {
+		"ft": 16384,
+		"iS": 5680,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/dybvik.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/egelandsaa.jpg": {
+		"ft": 16384,
+		"iS": 5841,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/egelandsaa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/eiksaa.jpg": {
+		"ft": 16384,
+		"iS": 5208,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/eiksaa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/engesland (1).jpg": {
+		"ft": 16384,
+		"iS": 5850,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/engesland (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/engesland.jpg": {
+		"ft": 16384,
+		"iS": 5850,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/engesland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/erfjord.jpg": {
+		"ft": 16384,
+		"iS": 5450,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/erfjord.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/farestad.jpg": {
+		"ft": 16384,
+		"iS": 7316,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/farestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/fjermeros.jpg": {
+		"ft": 16384,
+		"iS": 6265,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/fjermeros.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/flinder.jpg": {
+		"ft": 16384,
+		"iS": 6054,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/flinder.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/frigstad.jpg": {
+		"ft": 16384,
+		"iS": 5428,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/frigstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/fuglestad.jpg": {
+		"ft": 16384,
+		"iS": 5792,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/fuglestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/gabrielsen.jpg": {
+		"ft": 16384,
+		"iS": 6166,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/gabrielsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/granaas-a.jpg": {
+		"ft": 16384,
+		"iS": 5182,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/granaas-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/granaas-t-1 (1).jpg": {
+		"ft": 16384,
+		"iS": 5132,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/granaas-t-1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/granaas-t-1.jpg": {
+		"ft": 16384,
+		"iS": 5132,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/granaas-t-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/granaas-t.jpg": {
+		"ft": 16384,
+		"iS": 5279,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/granaas-t.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/gundersen.jpg": {
+		"ft": 16384,
+		"iS": 7992,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/gundersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/gustafsson.jpg": {
+		"ft": 16384,
+		"iS": 6138,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/gustafsson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/guthormsen.jpg": {
+		"ft": 16384,
+		"iS": 5935,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/guthormsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/guthormstad.jpg": {
+		"ft": 16384,
+		"iS": 6582,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/guthormstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/haartveit.jpg": {
+		"ft": 16384,
+		"iS": 5611,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/haartveit.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/habesland.jpg": {
+		"ft": 16384,
+		"iS": 5433,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/habesland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hagane (1).jpg": {
+		"ft": 16384,
+		"iS": 5607,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hagane (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hagane.jpg": {
+		"ft": 16384,
+		"iS": 5607,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hagane.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hagen.jpg": {
+		"ft": 16384,
+		"iS": 5488,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hagen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hansen-a.jpg": {
+		"ft": 16384,
+		"iS": 5904,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hansen-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hansen-to.jpg": {
+		"ft": 16384,
+		"iS": 5252,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hansen-to.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hansen.jpg": {
+		"ft": 16384,
+		"iS": 4892,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hansen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/haugen.jpg": {
+		"ft": 16384,
+		"iS": 5401,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/haugen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/haugset.jpg": {
+		"ft": 16384,
+		"iS": 4737,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/haugset.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/haugstoyl.jpg": {
+		"ft": 16384,
+		"iS": 5622,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/haugstoyl.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/haus.jpg": {
+		"ft": 16384,
+		"iS": 5609,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/haus.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hodne.jpg": {
+		"ft": 16384,
+		"iS": 5069,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hodne.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hoegh (1).jpg": {
+		"ft": 16384,
+		"iS": 6763,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hoegh (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hoegh.jpg": {
+		"ft": 16384,
+		"iS": 6763,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hoegh.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hogh1.jpg": {
+		"ft": 16384,
+		"iS": 6493,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hogh1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hogstad.jpg": {
+		"ft": 16384,
+		"iS": 4992,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hogstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hoie.jpg": {
+		"ft": 16384,
+		"iS": 5078,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hoie.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hovdal.jpg": {
+		"ft": 16384,
+		"iS": 4966,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hovdal.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hoyaasen-g.jpg": {
+		"ft": 16384,
+		"iS": 4916,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hoyaasen-g.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hoyaasen-tr-1 (1).jpg": {
+		"ft": 16384,
+		"iS": 6613,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hoyaasen-tr-1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hoyaasen-tr-1.jpg": {
+		"ft": 16384,
+		"iS": 6613,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hoyaasen-tr-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/hoyaasen-tr.jpg": {
+		"ft": 16384,
+		"iS": 7197,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/hoyaasen-tr.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/jakobsen.jpg": {
+		"ft": 16384,
+		"iS": 7064,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/jakobsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/johannesson.jpg": {
+		"ft": 16384,
+		"iS": 5198,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/johannesson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/johansen.jpg": {
+		"ft": 16384,
+		"iS": 6060,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/johansen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/johansson.jpg": {
+		"ft": 16384,
+		"iS": 5998,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/johansson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/jorgensen.jpg": {
+		"ft": 16384,
+		"iS": 5565,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/jorgensen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/juva.jpg": {
+		"ft": 16384,
+		"iS": 5504,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/juva.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/juva1.jpg": {
+		"ft": 16384,
+		"iS": 5682,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/juva1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/juva2.jpg": {
+		"ft": 16384,
+		"iS": 5508,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/juva2.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/kittelsen.jpg": {
+		"ft": 16384,
+		"iS": 6175,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/kittelsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/kjetsaa.jpg": {
+		"ft": 16384,
+		"iS": 4599,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/kjetsaa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/kleveland.jpg": {
+		"ft": 16384,
+		"iS": 4839,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/kleveland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/knudsen (1).jpg": {
+		"ft": 16384,
+		"iS": 6016,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/knudsen (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/knudsen.jpg": {
+		"ft": 16384,
+		"iS": 5236,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/knudsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/knudsenn.jpg": {
+		"ft": 16384,
+		"iS": 6016,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/knudsenn.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/knudsennn.jpg": {
+		"ft": 16384,
+		"iS": 5910,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/knudsennn.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/kostoel.jpg": {
+		"ft": 16384,
+		"iS": 5335,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/kostoel.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/kristiansen.jpg": {
+		"ft": 16384,
+		"iS": 4781,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/kristiansen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/kristiansen_1 (1).jpg": {
+		"ft": 16384,
+		"iS": 6014,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/kristiansen_1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/kristiansen_1.jpg": {
+		"ft": 16384,
+		"iS": 6014,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/kristiansen_1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/larsen.jpg": {
+		"ft": 16384,
+		"iS": 4804,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/larsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/lindland.jpg": {
+		"ft": 16384,
+		"iS": 6621,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/lindland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/loevik.jpg": {
+		"ft": 16384,
+		"iS": 6625,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/loevik.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/lohne.jpg": {
+		"ft": 16384,
+		"iS": 5477,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/lohne.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/lund.jpg": {
+		"ft": 16384,
+		"iS": 5258,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/lund.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/lunde.jpg": {
+		"ft": 16384,
+		"iS": 5829,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/lunde.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/madsen.jpg": {
+		"ft": 16384,
+		"iS": 6804,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/madsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/mellemstrand.jpg": {
+		"ft": 16384,
+		"iS": 5954,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/mellemstrand.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/michaelsen.jpg": {
+		"ft": 16384,
+		"iS": 7372,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/michaelsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/milsom.jpg": {
+		"ft": 16384,
+		"iS": 5912,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/milsom.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/moen.jpg": {
+		"ft": 16384,
+		"iS": 5549,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/moen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/myrhaug.jpg": {
+		"ft": 16384,
+		"iS": 6316,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/myrhaug.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/nesland-1 (1).jpg": {
+		"ft": 16384,
+		"iS": 5220,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/nesland-1 (1).jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/nesland-1.jpg": {
+		"ft": 16384,
+		"iS": 5220,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/nesland-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/nesland-t.jpg": {
+		"ft": 16384,
+		"iS": 5423,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/nesland-t.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/nesland.jpg": {
+		"ft": 16384,
+		"iS": 6349,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/nesland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/nilsen.jpg": {
+		"ft": 16384,
+		"iS": 5696,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/nilsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/nordhus.jpg": {
+		"ft": 16384,
+		"iS": 4999,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/nordhus.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/nupen.jpg": {
+		"ft": 16384,
+		"iS": 6048,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/nupen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/nyborg.jpg": {
+		"ft": 16384,
+		"iS": 5086,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/nyborg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/nyhagen.jpg": {
+		"ft": 16384,
+		"iS": 6196,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/nyhagen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/ojanen.jpg": {
+		"ft": 16384,
+		"iS": 5721,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/ojanen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/olaussen.jpg": {
+		"ft": 16384,
+		"iS": 6618,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/olaussen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/olsen.jpg": {
+		"ft": 16384,
+		"iS": 4861,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/olsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/omdal-a.jpg": {
+		"ft": 16384,
+		"iS": 4788,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/omdal-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/omdal-ha.jpg": {
+		"ft": 16384,
+		"iS": 5425,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/omdal-ha.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/omestad.jpg": {
+		"ft": 16384,
+		"iS": 6294,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/omestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/osmundsen.jpg": {
+		"ft": 16384,
+		"iS": 5277,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/osmundsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/pedersen-s.jpg": {
+		"ft": 16384,
+		"iS": 6141,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/pedersen-s.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/pedersen.jpg": {
+		"ft": 16384,
+		"iS": 5337,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/pedersen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/reierson.jpg": {
+		"ft": 16384,
+		"iS": 5724,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/reierson.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/revheim.jpg": {
+		"ft": 16384,
+		"iS": 7241,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/revheim.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/ribe.jpg": {
+		"ft": 16384,
+		"iS": 5630,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/ribe.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/ribeiro.jpg": {
+		"ft": 16384,
+		"iS": 5492,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/ribeiro.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/robstad-a.jpg": {
+		"ft": 16384,
+		"iS": 5212,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/robstad-a.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/robstad-j.jpg": {
+		"ft": 16384,
+		"iS": 5626,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/robstad-j.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/robstad-r.jpg": {
+		"ft": 16384,
+		"iS": 6114,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/robstad-r.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/roesnes.jpg": {
+		"ft": 16384,
+		"iS": 5895,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/roesnes.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/roestad.jpg": {
+		"ft": 16384,
+		"iS": 6394,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/roestad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/roland.jpg": {
+		"ft": 16384,
+		"iS": 5858,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/roland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/ropstad1.jpg": {
+		"ft": 16384,
+		"iS": 5572,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/ropstad1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/rosenberg.jpg": {
+		"ft": 16384,
+		"iS": 5682,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/rosenberg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/ruenes.jpg": {
+		"ft": 16384,
+		"iS": 5879,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/ruenes.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/rysstad.jpg": {
+		"ft": 16384,
+		"iS": 5290,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/rysstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/rysstad1.jpg": {
+		"ft": 16384,
+		"iS": 5138,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/rysstad1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/salvesen-1.jpg": {
+		"ft": 16384,
+		"iS": 4559,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/salvesen-1.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/salvesen.jpg": {
+		"ft": 16384,
+		"iS": 4337,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/salvesen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/signe_ani.gif": {
+		"ft": 4194304,
+		"iS": 1505898,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/signe_ani.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/thumbnail\/skogseid.jpg": {
+		"ft": 16384,
+		"iS": 7583,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/skogseid.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/sloegedal.jpg": {
+		"ft": 16384,
+		"iS": 7252,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/sloegedal.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/snoaas.jpg": {
+		"ft": 16384,
+		"iS": 7437,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/snoaas.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/soerensen.jpg": {
+		"ft": 16384,
+		"iS": 5749,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/soerensen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/sorensen.jpg": {
+		"ft": 16384,
+		"iS": 7221,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/sorensen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/steinsland-n.jpg": {
+		"ft": 16384,
+		"iS": 6582,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/steinsland-n.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/steinsland.jpg": {
+		"ft": 16384,
+		"iS": 4873,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/steinsland.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/stenberg.jpg": {
+		"ft": 16384,
+		"iS": 6607,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/stenberg.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/stephen.jpg": {
+		"ft": 16384,
+		"iS": 5766,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/stephen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/storeboe.jpg": {
+		"ft": 16384,
+		"iS": 5142,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/storeboe.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/stromme.jpg": {
+		"ft": 16384,
+		"iS": 5381,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/stromme.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/syvertsen.jpg": {
+		"ft": 16384,
+		"iS": 6257,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/syvertsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/tag.jpg": {
+		"ft": 16384,
+		"iS": 5065,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/tag.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/tallaksen.jpg": {
+		"ft": 16384,
+		"iS": 6294,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/tallaksen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/tangstad.jpg": {
+		"ft": 16384,
+		"iS": 5343,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/tangstad.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/thomassen.jpg": {
+		"ft": 16384,
+		"iS": 6815,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/thomassen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/toennessen.jpg": {
+		"ft": 16384,
+		"iS": 5756,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/toennessen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/tom-test-1.gif": {
+		"ft": 4194304,
+		"iS": 17522,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/tom-test-1.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/thumbnail\/tom-test.gif": {
+		"ft": 4194304,
+		"iS": 17557,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/tom-test.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/thumbnail\/tom-tester.gif": {
+		"ft": 4194304,
+		"iS": 305097,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/tom-tester.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/thumbnail\/tomtest2.gif": {
+		"ft": 4194304,
+		"iS": 620407,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/tomtest2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/thumbnail\/torkelsen.jpg": {
+		"ft": 16384,
+		"iS": 6647,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/torkelsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/tveit.jpg": {
+		"ft": 16384,
+		"iS": 6393,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/tveit.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/tveiten.jpg": {
+		"ft": 16384,
+		"iS": 6472,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/tveiten.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/vold.jpg": {
+		"ft": 16384,
+		"iS": 5541,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/vold.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/thumbnail\/vraa.jpg": {
+		"ft": 16384,
+		"iS": 5709,
+		"oA": 0,
+		"oAP": "\/img\/thumbnail\/vraa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/toennessen.jpg": {
+		"ft": 16384,
+		"iS": 181237,
+		"oA": 0,
+		"oAP": "\/img\/toennessen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/tom-test-1.gif": {
+		"ft": 4194304,
+		"iS": 29314188,
+		"oA": 0,
+		"oAP": "\/img\/tom-test-1.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/tom-test.gif": {
+		"ft": 4194304,
+		"iS": 15363500,
+		"oA": 0,
+		"oAP": "\/img\/tom-test.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/tom-tester.gif": {
+		"ft": 4194304,
+		"iS": 3808706,
+		"oA": 0,
+		"oAP": "\/img\/tom-tester.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/tomtest2.gif": {
+		"ft": 4194304,
+		"iS": 8934417,
+		"oA": 0,
+		"oAP": "\/img\/tomtest2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/torkelsen.jpg": {
+		"ft": 16384,
+		"iS": 197852,
+		"oA": 0,
+		"oAP": "\/img\/torkelsen.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/tveit.jpg": {
+		"ft": 16384,
+		"iS": 174955,
+		"oA": 0,
+		"oAP": "\/img\/tveit.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/tveiten.jpg": {
+		"ft": 16384,
+		"iS": 177837,
+		"oA": 0,
+		"oAP": "\/img\/tveiten.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/vold.jpg": {
+		"ft": 16384,
+		"iS": 251716,
+		"oA": 0,
+		"oAP": "\/img\/vold.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/vraa.jpg": {
+		"ft": 16384,
+		"iS": 255732,
+		"oA": 0,
+		"oAP": "\/img\/vraa.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/js\/main.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/min\/main-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/min\/min\/main-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/plugins.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/plugins-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/bootstrap.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/min\/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/jquery-1.10.2.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/min\/jquery-1.10.2.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/jquery.fileupload.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/min\/jquery.fileupload-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/jquery.iframe-transport.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/min\/jquery.iframe-transport-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/jquery.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/min\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/jquery.mixitup.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/min\/jquery.mixitup.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/jquery.ui.widget.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/min\/jquery.ui.widget-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/modernizr-2.6.2.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/min\/modernizr-2.6.2.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/slimbox2.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/min\/slimbox2-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/tabletop-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/min\/tabletop-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/logo\/logo.png": {
+		"ft": 32768,
+		"iS": 35370,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/logo\/logo.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/logo\/logo_fg.png": {
+		"ft": 32768,
+		"iS": 19004,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/logo\/logo_fg.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/robots.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/robots.txt",
+		"oF": 0
+		},
+	"\/test.php": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/test.php",
+		"oF": 0
+		},
+	"\/UploadHandler.php": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/UploadHandler.php",
+		"oF": 0
+		}
+	},
+"hooks": [
+	],
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"creationDate": 511260388,
+	"displayValue": "personaloversikt",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "brackets_gray"
+	},
+"projectSettings": {
+	"abortBuildOnError": 1,
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoBuildNewItems": 1,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"babelAuxiliaryCommentAfter": "",
+	"babelAuxiliaryCommentBefore": "",
+	"babelConfigFileHandlingType": 0,
+	"babelCustomPluginsList": "",
+	"babelCustomPresetsList": "",
+	"babelInsertModuleIDs": 0,
+	"babelModuleID": "",
+	"babelNoComments": 0,
+	"babelPlugins": {
+		"async-generator-functions": {
+			"active": 0
+			},
+		"async-to-generator": {
+			"active": 0
+			},
+		"async-to-module-method": {
+			"active": 0
+			},
+		"class-properties": {
+			"active": 0
+			},
+		"decorators": {
+			"active": 0
+			},
+		"decorators-legacy": {
+			"active": 0
+			},
+		"do-expressions": {
+			"active": 0
+			},
+		"es2015-arrow-functions": {
+			"active": 0
+			},
+		"es2015-block-scoped-functions": {
+			"active": 0
+			},
+		"es2015-block-scoping": {
+			"active": 0
+			},
+		"es2015-classes": {
+			"active": 0
+			},
+		"es2015-computed-properties": {
+			"active": 0
+			},
+		"es2015-constants": {
+			"active": 0
+			},
+		"es2015-destructuring": {
+			"active": 0
+			},
+		"es2015-duplicate-keys": {
+			"active": 0
+			},
+		"es2015-for-of": {
+			"active": 0
+			},
+		"es2015-function-name": {
+			"active": 0
+			},
+		"es2015-literals": {
+			"active": 0
+			},
+		"es2015-modules-amd": {
+			"active": 0
+			},
+		"es2015-modules-commonjs": {
+			"active": 0
+			},
+		"es2015-modules-systemjs": {
+			"active": 0
+			},
+		"es2015-modules-umd": {
+			"active": 0
+			},
+		"es2015-object-super": {
+			"active": 0
+			},
+		"es2015-parameters": {
+			"active": 0
+			},
+		"es2015-shorthand-properties": {
+			"active": 0
+			},
+		"es2015-spread": {
+			"active": 0
+			},
+		"es2015-sticky-regex": {
+			"active": 0
+			},
+		"es2015-template-literals": {
+			"active": 0
+			},
+		"es2015-typeof-symbol": {
+			"active": 0
+			},
+		"es2015-unicode-regex": {
+			"active": 0
+			},
+		"es3-member-expression-literals": {
+			"active": 0
+			},
+		"es3-property-literals": {
+			"active": 0
+			},
+		"es5-property-mutators": {
+			"active": 0
+			},
+		"eval": {
+			"active": 0
+			},
+		"exponentiation-operator": {
+			"active": 0
+			},
+		"export-extensions": {
+			"active": 0
+			},
+		"external-helpers": {
+			"active": 0
+			},
+		"flow-comments": {
+			"active": 0
+			},
+		"flow-strip-types": {
+			"active": 0
+			},
+		"function-bind": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
+		"jscript": {
+			"active": 0
+			},
+		"member-expression-literals": {
+			"active": 0
+			},
+		"merge-sibling-variables": {
+			"active": 0
+			},
+		"minify-booleans": {
+			"active": 0
+			},
+		"node-env-inline": {
+			"active": 0
+			},
+		"object-assign": {
+			"active": 0
+			},
+		"object-rest-spread": {
+			"active": 0
+			},
+		"object-set-prototype-of-to-assign": {
+			"active": 0
+			},
+		"property-literals": {
+			"active": 0
+			},
+		"proto-to-assign": {
+			"active": 0
+			},
+		"react-constant-elements": {
+			"active": 0
+			},
+		"react-display-name": {
+			"active": 0
+			},
+		"react-inline-elements": {
+			"active": 0
+			},
+		"react-jsx": {
+			"active": 0
+			},
+		"react-jsx-compat": {
+			"active": 0
+			},
+		"react-jsx-self": {
+			"active": 0
+			},
+		"react-jsx-source": {
+			"active": 0
+			},
+		"regenerator": {
+			"active": 0
+			},
+		"remove-console": {
+			"active": 0
+			},
+		"remove-debugger": {
+			"active": 0
+			},
+		"runtime": {
+			"active": 0
+			},
+		"simplify-comparison-operators": {
+			"active": 0
+			},
+		"strict-mode": {
+			"active": 0
+			},
+		"syntax-async-generators": {
+			"active": 0
+			},
+		"syntax-class-properties": {
+			"active": 0
+			},
+		"syntax-decorators": {
+			"active": 0
+			},
+		"syntax-do-expressions": {
+			"active": 0
+			},
+		"syntax-export-extensions": {
+			"active": 0
+			},
+		"syntax-flow": {
+			"active": 0
+			},
+		"syntax-function-bind": {
+			"active": 0
+			},
+		"syntax-function-sent": {
+			"active": 0
+			},
+		"syntax-jsx": {
+			"active": 0
+			},
+		"syntax-object-rest-spread": {
+			"active": 0
+			},
+		"undeclared-variables-check": {
+			"active": 0
+			},
+		"undefined-to-void": {
+			"active": 0
+			}
+		},
+	"babelPresetType": 193,
+	"babelRetainLines": 0,
+	"bowerAbbreviatedPath": "bower_components",
+	"bowerAutoCreateInfoFile": 1,
+	"bowerInstallDevDependencies": 0,
+	"bowerSaveDependencies": 1,
+	"bowerSaveDevDependencies": 0,
+	"bowerUseExactVersion": 0,
+	"browserRefreshDelay": 0,
+	"buildFolderActive": 0,
+	"buildFolderName": "build",
+	"cleanBuild": 1,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"esLintConfigFileHandlingType": 0,
+	"esLintECMAVersion": 7,
+	"esLintEnvironmentsMask": 1,
+	"esLintRules": {
+		"accessor-pairs": {
+			"active": 0,
+			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
+			},
+		"array-bracket-spacing": {
+			"active": 0,
+			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
+			},
+		"array-callback-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"arrow-body-style": {
+			"active": 0,
+			"optionString": "'as-needed', {'requireReturnForObjectLiteral': false}"
+			},
+		"arrow-parens": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true}"
+			},
+		"block-scoped-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"block-spacing": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"brace-style": {
+			"active": 0,
+			"optionString": "'1tbs', {'allowSingleLine': true}"
+			},
+		"callback-return": {
+			"active": 0,
+			"optionString": "['callback', 'cb', 'next']"
+			},
+		"camelcase": {
+			"active": 0,
+			"optionString": "{'properties': 'always'}"
+			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
+		"class-methods-use-this": {
+			"active": 0,
+			"optionString": "{'exceptMethods': []}"
+			},
+		"comma-dangle": {
+			"active": 1,
+			"optionString": "'never'"
+			},
+		"comma-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"comma-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"complexity": {
+			"active": 0,
+			"optionString": "20"
+			},
+		"computed-property-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"consistent-return": {
+			"active": 0,
+			"optionString": "{'treatUndefinedAsUnspecified': false}"
+			},
+		"consistent-this": {
+			"active": 0,
+			"optionString": "'that'"
+			},
+		"constructor-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"curly": {
+			"active": 0,
+			"optionString": "'all'"
+			},
+		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"dot-location": {
+			"active": 0,
+			"optionString": "'object'"
+			},
+		"dot-notation": {
+			"active": 0,
+			"optionString": "{'allowKeywords': false}"
+			},
+		"eol-last": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"eqeqeq": {
+			"active": 0,
+			"optionString": "'always', {'null': 'always'}"
+			},
+		"func-call-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"func-name-matching": {
+			"active": 0,
+			"optionString": "'always', {'includeCommonJSModuleExports': false}"
+			},
+		"func-names": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"func-style": {
+			"active": 0,
+			"optionString": "'expression'"
+			},
+		"generator-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': false}"
+			},
+		"global-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"guard-for-in": {
+			"active": 0,
+			"optionString": ""
+			},
+		"handle-callback-err": {
+			"active": 0,
+			"optionString": "'err'"
+			},
+		"id-blacklist": {
+			"active": 0,
+			"optionString": "'data', 'err', 'e', 'cb', 'callback'"
+			},
+		"id-length": {
+			"active": 0,
+			"optionString": "{'min': 2, 'max': 1000, 'properties': 'always', 'exceptions': ['x', 'i', 'y']}"
+			},
+		"id-match": {
+			"active": 0,
+			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"indent": {
+			"active": 0,
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1, }"
+			},
+		"init-declarations": {
+			"active": 0,
+			"optionString": "'always',  {'ignoreForLoopInit': true}"
+			},
+		"jsx-quotes": {
+			"active": 0,
+			"optionString": "'prefer-double'"
+			},
+		"key-spacing": {
+			"active": 0,
+			"optionString": "{'singleLine': {'beforeColon': false, 'afterColon': true, 'mode':'strict'}, 'multiLine': {'beforeColon': false, 'afterColon': true, 'align': 'value', 'mode':'minimum'}}"
+			},
+		"keyword-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true, 'overrides': {}}"
+			},
+		"line-comment-position": {
+			"active": 0,
+			"optionString": "{'position': 'above'}"
+			},
+		"linebreak-style": {
+			"active": 0,
+			"optionString": "'unix'"
+			},
+		"lines-around-comment": {
+			"active": 0,
+			"optionString": "{'beforeBlockComment': true}"
+			},
+		"lines-around-directive": {
+			"active": 0,
+			"optionString": "{'before': 'always', 'after': 'always'}"
+			},
+		"max-depth": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-len": {
+			"active": 0,
+			"optionString": "{'code': 80, 'comments': 80, 'tabWidth': 4, 'ignoreUrls': true, 'ignoreStrings': true, 'ignoreTemplateLiterals': true, 'ignoreRegExpLiterals': true}"
+			},
+		"max-lines": {
+			"active": 0,
+			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-nested-callbacks": {
+			"active": 0,
+			"optionString": "{'max': 10}"
+			},
+		"max-params": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-statements": {
+			"active": 0,
+			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
+			},
+		"multiline-ternary": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"new-cap": {
+			"active": 0,
+			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
+			},
+		"new-parens": {
+			"active": 0,
+			"optionString": ""
+			},
+		"newline-after-var": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"newline-before-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"newline-per-chained-call": {
+			"active": 0,
+			"optionString": "{'ignoreChainWithDepth': 2}"
+			},
+		"no-alert": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-array-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-bitwise": {
+			"active": 0,
+			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-caller": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-case-declarations": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-catch-shadow": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-class-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-cond-assign": {
+			"active": 1,
+			"optionString": "'except-parens'"
+			},
+		"no-confusing-arrow": {
+			"active": 0,
+			"optionString": "{'allowParens': false}"
+			},
+		"no-console": {
+			"active": 1,
+			"optionString": "{'allow': ['warn', 'error']}"
+			},
+		"no-const-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-constant-condition": {
+			"active": 1,
+			"optionString": "{'checkLoops': true}"
+			},
+		"no-continue": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-control-regex": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-debugger": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-delete-var": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-div-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-dupe-args": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-keys": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-duplicate-imports": {
+			"active": 0,
+			"optionString": "{'includeExports': false}"
+			},
+		"no-else-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-empty": {
+			"active": 1,
+			"optionString": "{'allowEmptyCatch': false}"
+			},
+		"no-empty-character-class": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-empty-function": {
+			"active": 0,
+			"optionString": "{'allow': []}"
+			},
+		"no-empty-pattern": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-eq-null": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-eval": {
+			"active": 0,
+			"optionString": "{'allowIndirect': false}"
+			},
+		"no-ex-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extend-native": {
+			"active": 0,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-extra-bind": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-boolean-cast": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extra-labels": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-parens": {
+			"active": 1,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
+			},
+		"no-extra-semi": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-fallthrough": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-floating-decimal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-func-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-global-assign": {
+			"active": 0,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-implicit-coercion": {
+			"active": 0,
+			"optionString": "{'boolean': true, 'number': true, 'string': true, 'allow': []}"
+			},
+		"no-implicit-globals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-implied-eval": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inline-comments": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inner-declarations": {
+			"active": 1,
+			"optionString": "'functions'"
+			},
+		"no-invalid-regexp": {
+			"active": 1,
+			"optionString": "{'allowConstructorFlags': ['u', 'y']}"
+			},
+		"no-invalid-this": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-irregular-whitespace": {
+			"active": 1,
+			"optionString": "{'skipStrings': true, 'skipComments': false, 'skipRegExps': true, 'skipTemplates': true}"
+			},
+		"no-iterator": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-label-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-labels": {
+			"active": 0,
+			"optionString": "{'allowLoop': false, 'allowSwitch': false}"
+			},
+		"no-lone-blocks": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-lonely-if": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-loop-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-magic-numbers": {
+			"active": 0,
+			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
+			},
+		"no-mixed-operators": {
+			"active": 0,
+			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			},
+		"no-mixed-requires": {
+			"active": 0,
+			"optionString": "{'grouping': false, 'allowCall': false }"
+			},
+		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-spaces": {
+			"active": 0,
+			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
+			},
+		"no-multi-str": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multiple-empty-lines": {
+			"active": 0,
+			"optionString": "{'max': 2, 'maxBOF': 2, 'maxEOF': 2}"
+			},
+		"no-negated-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-nested-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-object": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-symbol": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-new-wrappers": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-obj-calls": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-param-reassign": {
+			"active": 0,
+			"optionString": "{'props': false}"
+			},
+		"no-path-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-plusplus": {
+			"active": 0,
+			"optionString": "{'allowForLoopAfterthoughts': false}"
+			},
+		"no-process-env": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-process-exit": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-redeclare": {
+			"active": 1,
+			"optionString": "{'builtinGlobals': false}"
+			},
+		"no-regex-spaces": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-restricted-globals": {
+			"active": 0,
+			"optionString": "'event', 'fdescribe'"
+			},
+		"no-restricted-imports": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-modules": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-properties": {
+			"active": 0,
+			"optionString": "[{'object': 'disallowedObjectName', 'property': 'disallowedPropertyName'}, {'object': 'disallowedObjectName', 'property': 'anotherDisallowedPropertyName', 'message': 'Please use allowedObjectName.allowedPropertyName.'}]"
+			},
+		"no-restricted-syntax": {
+			"active": 0,
+			"optionString": "'FunctionExpression', 'WithStatement'"
+			},
+		"no-return-assign": {
+			"active": 0,
+			"optionString": "'except-parens'"
+			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-script-url": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-self-assign": {
+			"active": 1,
+			"optionString": "{'props': false}"
+			},
+		"no-self-compare": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-sequences": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-shadow": {
+			"active": 0,
+			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
+			},
+		"no-shadow-restricted-names": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sparse-arrays": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-sync": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-template-curly-in-string": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-this-before-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-throw-literal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-trailing-spaces": {
+			"active": 0,
+			"optionString": "{'skipBlankLines': false}"
+			},
+		"no-undef": {
+			"active": 1,
+			"optionString": "{'typeof': false}"
+			},
+		"no-undef-init": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-undefined": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-underscore-dangle": {
+			"active": 0,
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false}"
+			},
+		"no-unexpected-multiline": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unmodified-loop-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-unneeded-ternary": {
+			"active": 0,
+			"optionString": "{'defaultAssignment': true}"
+			},
+		"no-unreachable": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-finally": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-negation": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-unused-expressions": {
+			"active": 0,
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			},
+		"no-unused-labels": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unused-vars": {
+			"active": 1,
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
+			},
+		"no-use-before-define": {
+			"active": 0,
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-call": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-computed-key": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-useless-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-rename": {
+			"active": 0,
+			"optionString": "{'ignoreDestructuring': false, 'ignoreImport': false, 'ignoreExport': false}"
+			},
+		"no-useless-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-void": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-warning-comments": {
+			"active": 0,
+			"optionString": "{'terms': ['todo', 'fixme', 'xxx'], 'location': 'start'}"
+			},
+		"no-whitespace-before-property": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-with": {
+			"active": 0,
+			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
+		"object-curly-newline": {
+			"active": 0,
+			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
+			},
+		"object-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"object-property-newline": {
+			"active": 0,
+			"optionString": "{'allowMultiplePropertiesPerLine': true}"
+			},
+		"object-shorthand": {
+			"active": 0,
+			"optionString": "'always', {'avoidQuotes': false, 'ignoreConstructors': false}"
+			},
+		"one-var": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"one-var-declaration-per-line": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-assignment": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-linebreak": {
+			"active": 0,
+			"optionString": "'after', {'overrides': {'?': 'after', '+=': 'none'}}"
+			},
+		"padded-blocks": {
+			"active": 0,
+			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
+			},
+		"prefer-arrow-callback": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-const": {
+			"active": 0,
+			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-numeric-literals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-rest-params": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-spread": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-template": {
+			"active": 0,
+			"optionString": ""
+			},
+		"quote-props": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"quotes": {
+			"active": 0,
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
+			},
+		"radix": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"require-jsdoc": {
+			"active": 0,
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-yield": {
+			"active": 0,
+			"optionString": ""
+			},
+		"rest-spread-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"semi": {
+			"active": 0,
+			"optionString": "'always', {'omitLastInOneLineBlock': false}"
+			},
+		"semi-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"sort-imports": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
+			},
+		"sort-keys": {
+			"active": 0,
+			"optionString": "'asc', {'caseSensitive': true, 'natural': false}"
+			},
+		"sort-vars": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false}"
+			},
+		"space-before-blocks": {
+			"active": 0,
+			"optionString": "{'functions': 'always', 'keywords': 'always', 'classes': 'always'}"
+			},
+		"space-before-function-paren": {
+			"active": 0,
+			"optionString": "{'anonymous': 'always', 'named': 'never'}"
+			},
+		"space-in-parens": {
+			"active": 0,
+			"optionString": "'never', {'exceptions': []}"
+			},
+		"space-infix-ops": {
+			"active": 0,
+			"optionString": "{'int32Hint': false}"
+			},
+		"space-unary-ops": {
+			"active": 0,
+			"optionString": "{'words': true, 'nonwords': false, 'overrides': {}}"
+			},
+		"spaced-comment": {
+			"active": 0,
+			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			},
+		"strict": {
+			"active": 0,
+			"optionString": "'safe'"
+			},
+		"symbol-description": {
+			"active": 0,
+			"optionString": ""
+			},
+		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"unicode-bom": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"use-isnan": {
+			"active": 1,
+			"optionString": ""
+			},
+		"valid-jsdoc": {
+			"active": 0,
+			"optionString": "{'prefer': {'return': 'returns'}, 'requireReturn': true, 'requireReturnDescription': true, 'requireReturnType': true, 'requireParamDescription': true}"
+			},
+		"valid-typeof": {
+			"active": 1,
+			"optionString": "{'requireStringLiterals': true}"
+			},
+		"vars-on-top": {
+			"active": 0,
+			"optionString": ""
+			},
+		"wrap-iife": {
+			"active": 0,
+			"optionString": "'outside'"
+			},
+		"wrap-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"yield-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"yoda": {
+			"active": 0,
+			"optionString": "'never', {'exceptRange': false, 'onlyEquality': false}"
+			}
+		},
+	"esLintSourceType": 0,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"gitIgnoreBuildFolder": 1,
+	"hideConfigFile": 0,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"languageDefaultsCOFFEE": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1
+		},
+	"languageDefaultsCSS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.css",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsGIF": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.gif",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsHAML": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"escapeHTMLCharacters": 0,
+		"noEscapeInAttributes": 0,
+		"outputFormat": 2,
+		"outputStyle": 0,
+		"useCDATA": 0,
+		"useDoubleQuotes": 0,
+		"useUnixNewlines": 0
+		},
+	"languageDefaultsJPG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.jpg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"quality": 100
+		},
+	"languageDefaultsJS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.js",
+		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 2,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 0
+		},
+	"languageDefaultsJSON": {
+		"autoOutputAction": 1,
+		"autoOutputPathFilenamePattern": "*-min.json",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"orderOutput": 0,
+		"outputStyle": 1
+		},
+	"languageDefaultsJSX": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "jsx",
+		"autoOutputPathReplace2": "js",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsKIT": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsLESS": {
+		"allowInsecureImports": 0,
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "less",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 2,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"ieCompatibility": 1,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"languageDefaultsMARKDOWN": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"maskEmailAddresses": 1,
+		"outputFormat": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"languageDefaultsOTHER": {
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*.*",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsPNG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.png",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
+		},
+	"languageDefaultsPUG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileDebug": 1,
+		"outputStyle": 0
+		},
+	"languageDefaultsSASS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "sass",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 2,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"languageDefaultsSLIM": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileOnly": 0,
+		"logicless": 0,
+		"outputFormat": 0,
+		"outputStyle": 1,
+		"railsCompatible": 0
+		},
+	"languageDefaultsSTYLUS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "stylus",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 2,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"importCSS": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsSVG": {
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*.svg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"pluginMask": 3758088159
+		},
+	"languageDefaultsTS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 2,
+		"createDeclarationFile": 0,
+		"createSourceMap": 0,
+		"jsxMode": 0,
+		"minifyOutput": 0,
+		"moduleResolutionType": 0,
+		"moduleType": 0,
+		"noImplicitAny": 0,
+		"preserveConstEnums": 0,
+		"removeComments": 0,
+		"suppressImplicitAnyIndexErrors": 0,
+		"targetECMAVersion": 0
+		},
+	"languageDefaultsUserDefined": [
+		],
+	"previewPathAddition": "",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"sourceFolderName": "source",
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "3"
+}
